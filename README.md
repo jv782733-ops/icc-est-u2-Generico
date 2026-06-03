@@ -13,3 +13,5 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 
 
 ### Capturas 
+![alt text](image.png)
+![alt text](image-1.png)
